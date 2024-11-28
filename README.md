@@ -3,5 +3,5 @@
 ![](/img_docu/Cap12.png)
 
 # Visualiza con php el contenido de la página web( php -S 0:8080).
-![](/img_docu/Cap1.png)
+![](/img_docu/Actividad5/Cap1.png)
 
