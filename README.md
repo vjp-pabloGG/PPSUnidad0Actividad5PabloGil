@@ -6,5 +6,8 @@
 ![](/img_docu/Actividad5/Cap1.png)
 
 # Dentro de la carpeta profile crea un archivo html con el mismo nombre del archivo de la imagen que copiaste en el punto anterior.
+![](/img_docu/Actividad5/Cap10.png)
 ![](/img_docu/Actividad5/Cap2.png)
+
+
 
