@@ -36,3 +36,8 @@
 <h2>La gracia es que en nuestro respositorio los colaboradores habrán hecho el mismo trabajo. En mi caso con git branch sólo me mostraba mi rama main, pero he localizado las ramas creadas en mi repositorio</h2>
 
 ![](/img_docu/Actividad5/Cap12.png)
+
+<h2>Comprobamos los 3 últimos logs realizados en nuestro repositorio</h2>
+
+
+![](/img_docu/Actividad5/Cap13.png)
