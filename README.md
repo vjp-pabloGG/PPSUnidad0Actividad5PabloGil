@@ -18,6 +18,11 @@
 
 ![](/img_docu/Actividad5/Cap11.png)
 
+# Colaborando
+<h2>Ahora vamos a ver cómo se ha realizado el proceso colaborativo, para resumir, tenemos que aceptar la invitación de nuestro compañero, clonar su respositorio en nuestro local y empezar a trabajar</h2>
 
+<h3>Aceptamos la invitación</h3>
+
+![](/img_docu/Actividad5/Cap5.png)
 
 
