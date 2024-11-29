@@ -25,4 +25,8 @@
 
 ![](/img_docu/Actividad5/Cap5.png)
 
+<h2>Tras clonar por ssh vamos a: crear nuestra rama propia y añadir archivos personales en las carpetas img y profile</h2>
+
+![](/img_docu/Actividad5/Cap6.png)
+
 
