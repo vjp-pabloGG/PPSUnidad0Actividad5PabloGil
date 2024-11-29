@@ -32,3 +32,7 @@
 <h2>Procederemos a añadir nuestros archivos a la rama main del repositorio del compañero, en este caso no vamos a eliminar la que haya sino que todos los colaboradores tendremos nuestra foto y html</h2>
 
 ![](/img_docu/Actividad5/Cap7.png)
+
+<h2>La gracia es que en nuestro respositorio los colaboradores habrán hecho el mismo trabajo. En mi caso con git branch sólo me mostraba mi rama main, pero he localizado las ramas creadas en mi repositorio</h2>
+
+![](/img_docu/Actividad5/Cap12.png)
