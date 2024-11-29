@@ -29,4 +29,6 @@
 
 ![](/img_docu/Actividad5/Cap6.png)
 
+<h2>Procederemos a añadir nuestros archivos a la rama main del repositorio del compañero, en este caso no vamos a eliminar la que haya sino que todos los colaboradores tendremos nuestra foto y html</h2>
 
+![](/img_docu/Actividad5/Cap7.png)
